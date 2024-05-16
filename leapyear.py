@@ -1,3 +1,5 @@
+"""Leap year algorithm"""
+
 year = int(input("Enter year:"))
 
 
